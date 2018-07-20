@@ -1,2 +1,3 @@
-# website-vmc
+# CONTENT
+
 VIMCOM WEBSITE
